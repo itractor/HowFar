@@ -1,0 +1,11 @@
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\bin\Debug\netcoreapp2.0\HowFarCanIGoWebApp.deps.json
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\bin\Debug\netcoreapp2.0\HowFarCanIGoWebApp.runtimeconfig.json
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\bin\Debug\netcoreapp2.0\HowFarCanIGoWebApp.runtimeconfig.dev.json
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\bin\Debug\netcoreapp2.0\HowFarCanIGoWebApp.dll
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\bin\Debug\netcoreapp2.0\HowFarCanIGoWebApp.pdb
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\obj\Debug\netcoreapp2.0\HowFarCanIGoWebApp.csprojResolveAssemblyReference.cache
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\obj\Debug\netcoreapp2.0\HowFarCanIGoWebApp.csproj.CoreCompileInputs.cache
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\obj\Debug\netcoreapp2.0\HowFarCanIGoWebApp.AssemblyInfoInputs.cache
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\obj\Debug\netcoreapp2.0\HowFarCanIGoWebApp.AssemblyInfo.cs
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\obj\Debug\netcoreapp2.0\HowFarCanIGoWebApp.dll
+C:\Users\oebar\Documents\HowFar\Solution1\HowFarCanIGoWebApp\obj\Debug\netcoreapp2.0\HowFarCanIGoWebApp.pdb
